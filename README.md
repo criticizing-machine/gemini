@@ -1,1 +1,1 @@
-### Thingking Machine (gemini)
+### Criticizing Machine (gemini)
