@@ -15,7 +15,7 @@ description: This is a machine that reasons.
 machine:
   name: Criticizing-Machine
   verb: Criticizing
-  instructions_file: gemini_criticizing.md
+  instructions_file: criticizing.md
   token: gemini
   server: https://localhost:443
   apiUrl: https://generativelanguage.googleapis.com/v1beta/models/
